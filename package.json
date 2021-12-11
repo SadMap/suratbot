@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "croner": "^4.0.79",
+    "discord.js": "^13.3.1",
+    "jsdom": "^19.0.0",
+    "node-fetch": "^2.6.6"
+  }
+}
